@@ -36,10 +36,10 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<br/>
-
+<!--
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoassantos&show_icons=true)
+-->
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 

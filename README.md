@@ -45,8 +45,6 @@
 
 <br/>
 
----
-
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoassantos&show_icons=true)
 

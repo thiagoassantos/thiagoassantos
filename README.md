@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
-<!-- - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**. -->
+- 🌱 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentesting e Bug Bounting, e Blockchain/Criptoativos**. -->
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 

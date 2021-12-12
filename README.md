@@ -1,3 +1,9 @@
+<style>
+  img {
+    width: 10%;
+  }
+</style>
+
 ![](https://komarev.com/ghpvc/?username=thiagoassantos&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>

@@ -86,7 +86,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <p align="left">
-  <a href="#" alt="Gmail">
   <a href="https://www.instagram.com/" target="_blank" alt="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

@@ -47,7 +47,8 @@
 **Utilidades**
 
   ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  
+  ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![image](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
   
 **DevOps**
 <!--
@@ -91,5 +92,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&lin=https://www.instagram.com/)](https://www.instagram.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/5341606)](https://www.sololearn.com/profile/5341606)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoassantos
+
   
 ![](https://hit.yhype.me/github/profile?user_id=26508407)

@@ -1,9 +1,3 @@
-<style>
-  img {
-    width: 10%;
-  }
-</style>
-
 ![](https://komarev.com/ghpvc/?username=thiagoassantos&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>
@@ -14,6 +8,8 @@
 - 🌱 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest e Bug Bounty, e Blockchain/Criptoativos**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
+
+<div id="badges" style="width: 10%;">
 
 **Aplicações e Dados**
 
@@ -99,5 +95,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&lin=https://www.instagram.com/)](https://www.instagram.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/5341606)](https://www.sololearn.com/profile/5341606)
+  
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=26508407)

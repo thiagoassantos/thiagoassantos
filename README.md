@@ -105,6 +105,10 @@
   <a href="https://www.sololearn.com/profile/5341606" target="_blank" alt="">
     <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/>
   </a>
+  
+ 
 </p>
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](LINK_LINKEDIN)
 
 ![](https://hit.yhype.me/github/profile?user_id=26508407)

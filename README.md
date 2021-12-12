@@ -1,11 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=thiagoassantos&color=006bed)
 
-<style type="text/css" rel="stylesheet">
-  badges img {
-    width: 2%;
-  }
-</style>
-
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.

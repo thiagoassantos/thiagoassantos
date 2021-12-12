@@ -9,7 +9,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<div id="badges" style="width: 10%;">
+<div id="badges" style="width: 2%;">
 
 **Aplicações e Dados**
 

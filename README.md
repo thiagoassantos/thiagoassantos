@@ -113,4 +113,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/)](LINK_INSTA)
 [![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/5341606)](LINK_SOLOLEARN)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/thiagoassantos/thiagoassantos/edit/main/README.md)](LINK_LINKEDIN)
+
 ![](https://hit.yhype.me/github/profile?user_id=26508407)

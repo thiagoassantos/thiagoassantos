@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=thiagoassantos&color=006bed)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={thiagoassantos}
+https://github-readme-stats.vercel.app/api?username=thiagoassantos
 
 <h3> :man: &nbsp;Sobre mim </h3>
 

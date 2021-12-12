@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=thiagoassantos&color=006bed)
 
-https://github-readme-stats.vercel.app/api?username=thiagoassantos
-
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.

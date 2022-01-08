@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=thiagoassantos&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> 🔎 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💡 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
-- 🌱 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest e Bug Bounty, e Blockchain/Criptoativos**.
+- 📚 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest e Bug Bounty, e Blockchain/Criptoativos**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 

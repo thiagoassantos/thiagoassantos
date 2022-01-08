@@ -88,7 +88,7 @@
 <p align="left">
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teste@teste.com)](mailto:teste@teste.com)
+[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teste@teste.com)](mailto:thiagossenac@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![Linkedin Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&lin=https://www.instagram.com/)](https://www.instagram.com/)

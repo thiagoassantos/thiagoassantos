@@ -86,8 +86,6 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoassantos&show_icons=true)
 -->
-<!-- Banner TryHackMe -->
-<script src="https://tryhackme.com/badge/520734"></script>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 

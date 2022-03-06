@@ -87,12 +87,14 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoassantos&show_icons=true)
 -->
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/thiagosanctus.png" alt="TryHackMe">
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <p align="left">
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teste@teste.com)](mailto:thiagossenac@gmail.com)
+[![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teste@teste.com)](mailto:thiagossenac@gmail.com)
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![Linkedin Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
